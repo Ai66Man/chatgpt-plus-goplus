@@ -181,6 +181,7 @@ Plus 适合多数日常使用，Pro 更适合高频、重度或更高额度需�
 - [Claude Pro 国内充值教程](https://github.com/Ai66Man/claude-pro-goplus)
 - [Grok Super 国内充值教程](https://github.com/Ai66Man/grok-super-goplus)
 - [ChatGPT Plus 充值失败排查指南](https://github.com/Ai66Man/ChatGPT-Pay)
+- [2026 AI 订阅价格对比表：ChatGPT、Claude、Grok、Gemini 全档位](https://ai66man.github.io/chatgpt-plus-sub/ai-subscription-price-compare.html)
 
 ## 更新记录
 
